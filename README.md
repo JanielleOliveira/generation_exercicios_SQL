@@ -16,7 +16,7 @@ Este repositório contém a execução de três atividades práticas utilizando 
 - Consultar colaboradores com salário menor que 2000.  
 - Atualizar um registro da tabela.  
 
-**Arquivo SQL:** [`db_rh_empresa.sql`]([./db_rh_empresa](https://github.com/JanielleOliveira/generation_exercicios_SQL/blob/main/db_rh_empresa.sql))  
+**Arquivo SQL:** [`db_rh_empresa.sql`](./db_rh_empresa.sql)
 
 **Exemplo de Tabela:**  
 | id | nome          | cargo            | departamento   | salario  |  
@@ -40,7 +40,7 @@ Este repositório contém a execução de três atividades práticas utilizando 
 - Consultar produtos com valor menor que 500.  
 - Atualizar um registro da tabela.  
 
-**Arquivo SQL:** [`db_e_commerce.sql`]([./db_e_commerce](https://github.com/JanielleOliveira/generation_exercicios_SQL/blob/main/db_e_commerce.sql))  
+**Arquivo SQL:** [`db_e_commerce.sql`](./db_e_commerce.sql)   
 
 **Exemplo de Tabela:**  
 | id | tipo    |     nome_produto                 | categoria       | preco   |  
@@ -61,7 +61,8 @@ Este repositório contém a execução de três atividades práticas utilizando 
 - Consultar estudantes com nota menor que 7.0.  
 - Atualizar um registro da tabela.  
 
-**Arquivo SQL:** [`db_escola.sql`]([./db_escola.sql](https://github.com/JanielleOliveira/generation_exercicios_SQL/blob/main/db_escola.sql))  
+**Arquivo SQL:** [`db_escola.sql`](./db_escola.sql)  
+
 
 **Exemplo de Tabela:**  
 | id | nome        | idade  | turma | nota  |  
